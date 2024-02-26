@@ -38,4 +38,4 @@
  |a | b   | c|
  |----:|:--------:|---------:|
  |Nagy|LAjos|dotos|
- |kis|Annamnária|sportolo|
+ |Kis|Annamnária|sportoló|
